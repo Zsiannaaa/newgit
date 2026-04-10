@@ -4,7 +4,7 @@ Install the dependencies and run the project
 npm install
 npm start
 ```
-
+so this is my first git project in scrimba!!!
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
 
